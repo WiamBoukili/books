@@ -1,0 +1,204 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Le Petit Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "genre": "Roman",
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "L'Étranger",
+      "author": "Albert Camus",
+      "year": 1942,
+      "genre": "Philosophie",
+      "available": false
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Science-fiction",
+      "available": true
+    },
+    {
+      "id": 4,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "genre": "Informatique",
+      "available": true
+    },
+    {
+      "id": 5,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "year": 2008,
+      "genre": "Programmation",
+      "available": false
+    },
+    {
+      "id": 6,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "year": 1999,
+      "genre": "Programmation",
+      "available": true
+    },
+    {
+      "id": 7,
+      "title": "The Clean Coder",
+      "author": "Robert C. Martin",
+      "year": 2011,
+      "genre": "Informatique",
+      "available": true
+    },
+    {
+      "id": 8,
+      "title": "Design Patterns",
+      "author": "Erich Gamma",
+      "year": 1994,
+      "genre": "Programmation",
+      "available": false
+    },
+    {
+      "id": 9,
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "year": 2015,
+      "genre": "JavaScript",
+      "available": true
+    },
+    {
+      "id": 10,
+      "title": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "year": 2018,
+      "genre": "JavaScript",
+      "available": true
+    },
+    {
+      "id": 11,
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "year": 2019,
+      "genre": "Python",
+      "available": true
+    },
+    {
+      "id": 12,
+      "title": "Automate the Boring Stuff",
+      "author": "Al Sweigart",
+      "year": 2020,
+      "genre": "Python",
+      "available": false
+    },
+    {
+      "id": 13,
+      "title": "Learning React",
+      "author": "Alex Banks",
+      "year": 2022,
+      "genre": "React",
+      "available": true
+    },
+    {
+      "id": 14,
+      "title": "React Explained",
+      "author": "Zac Gordon",
+      "year": 2021,
+      "genre": "React",
+      "available": true
+    },
+    {
+      "id": 15,
+      "title": "Node.js Design Patterns",
+      "author": "Mario Casciaro",
+      "year": 2023,
+      "genre": "Node.js",
+      "available": false
+    },
+    {
+      "id": 16,
+      "title": "Mastering Django",
+      "author": "Nigel George",
+      "year": 2022,
+      "genre": "Django",
+      "available": true
+    },
+    {
+      "id": 17,
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "year": 2018,
+      "genre": "Java",
+      "available": true
+    },
+    {
+      "id": 18,
+      "title": "Head First Java",
+      "author": "Kathy Sierra",
+      "year": 2021,
+      "genre": "Java",
+      "available": false
+    },
+    {
+      "id": 19,
+      "title": "Spring in Action",
+      "author": "Craig Walls",
+      "year": 2022,
+      "genre": "Spring",
+      "available": true
+    },
+    {
+      "id": 20,
+      "title": "PHP & MySQL",
+      "author": "Luke Welling",
+      "year": 2017,
+      "genre": "PHP",
+      "available": true
+    },
+    {
+      "id": 21,
+      "title": "Laravel Up & Running",
+      "author": "Matt Stauffer",
+      "year": 2023,
+      "genre": "Laravel",
+      "available": true
+    },
+    {
+      "id": 22,
+      "title": "SQL Cookbook",
+      "author": "Anthony Molinaro",
+      "year": 2020,
+      "genre": "Base de données",
+      "available": false
+    },
+    {
+      "id": 23,
+      "title": "MongoDB Basics",
+      "author": "David Hows",
+      "year": 2021,
+      "genre": "NoSQL",
+      "available": true
+    },
+    {
+      "id": 24,
+      "title": "Docker Deep Dive",
+      "author": "Nigel Poulton",
+      "year": 2023,
+      "genre": "DevOps",
+      "available": true
+    },
+    {
+      "id": 25,
+      "title": "Kubernetes Up & Running",
+      "author": "Brendan Burns",
+      "year": 2022,
+      "genre": "DevOps",
+      "available": false
+    }
+  ]
+}
