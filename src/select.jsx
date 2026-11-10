@@ -1,6 +1,6 @@
 import { useState } from "react"
-import data from "../../data.json"
-import data_genre from "../../data_genre.json"
+import data from "../data.json"
+import data_genre from "../data_genre.json"
 export default function Select() {
     const [genre, setgenre] = useState('')
     const {genres} = data_genre

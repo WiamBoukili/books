@@ -1,6 +1,6 @@
 import { useState } from "react"
-import data from "../../data.json"
-import genre from "../../data_genre.json"
+import data from "../data.json"
+import genre from "../data_genre.json"
 export default function Search() {
     const {books} = data
     const [input, setinput] = useState("") 
